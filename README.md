@@ -67,6 +67,6 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=nm24781-cyber&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Stats](https://streak-stats.demolab.com/?user=nm24781-cyber&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
