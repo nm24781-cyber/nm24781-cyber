@@ -1,6 +1,6 @@
 # Neeraj Mahajan
 
-### Software Development Engineer | Tech Enthusiast | Innovator
+### Senior Software Engineer @ Amazon | Tech Enthusiast | Innovator
 
 👋 Hi there! I'm Neeraj, a passionate Software Engineer with over 5 years of experience specializing in end-to-end software development and team leadership.
 
